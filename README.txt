@@ -1,6 +1,6 @@
 README
 
-Theory of Computing Assignment, 2014
+Assignment for Theory of Computing course, 2014
 
 Compile and run EpsilonNFAtoDFA.java. A JFileChooser lets you choose
 a file which contains an epsilon NFA in Grail+ format. Epsilon
